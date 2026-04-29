@@ -1,22 +1,18 @@
-# 🃏 Texas Hold'em Poker Complete Source Code | 德州扑克完整源码 | 德州撲克完整源碼
+## 📸德州扑克源码 | 德州俱乐部源码 | 德州扑克服务器引擎
+**德州源码 · 德州联盟源码 · 德州私人局 · 德州朋友局源码**
+**实时多人德州扑克 高并发服务器引擎（C++ + WebSocket），支持私人局/朋友局/俱乐部/联盟模式**
+Texas Hold'em Multiplayer Poker Source Code | Real-time Multiplayer Poker Server Engine | Scalable Game Backend
 
-🔥 Production-ready poker platform ｜ 生产级德州扑克平台 ｜ 生產級德州撲克平台  
-🔥 Real-time multiplayer & multi-device support ｜ 实时多人，多端支持 ｜ 即時多人，多端支持  
-🔥 Already used in real poker projects ｜ 已应用于真实扑克项目 ｜ 已應用於真實撲克項目  
-🔥 Contact now for full source code & live demo ｜ 联系获取完整源码及在线演示 ｜ 聯絡獲取完整源碼及在線演示  
+✨ 项目核心亮点
 
-Build your own profitable poker platform faster than ever.  
-几天即可搭建自己的盈利德州扑克平台。  
-幾天即可搭建自己的盈利德州撲克平台。
+服务器权威架构：所有游戏逻辑在服务端执行，有效防止作弊和外挂。
+高并发实时通信：基于 WebSocket 低延迟同步，支持高并发多人对战。
+完整德州支持：经典德州（9人/6人桌）、私人局、朋友局、俱乐部/联盟模式。
+AI Bot 支持：内置智能机器人，用于测试或自动填充桌位。
+模块化高扩展：C++ 代码结构清晰，易于二次开发和功能扩展。
+数据持久化：支持手牌记录、玩家行为日志，便于反作弊和数据分析。
 
----
-
-## 🚀 Introduction | 项目介绍 | 專案介紹
-
-This project is a complete Texas Hold'em poker system, suitable for building online poker platforms.  
-本项目是一套完整的德州扑克系统，适用于搭建在线棋牌平台。  
-本專案為完整德州撲克系統，適用於線上棋牌平台搭建。
-
+⚠️ 重要声明：本项目仅供学习和研究使用，严格禁止用于任何真实货币赌博。商业使用请自行遵守当地法律法规，作者不承担任何法律责任。
 Supports:
 - Friends games / Private rooms ｜ 朋友局 / 私人局 ｜ 朋友局 / 私人局  
 - Club system ｜ 俱乐部 ｜ 俱樂部  
@@ -26,15 +22,6 @@ Supports:
 
 ---
 
-## ✨ Features | 核心功能 | 功能特色
-
-- ✅ Full source code (Server + Client) ｜ 完整源码 ｜ 完整源碼  
-- ✅ Real-time multiplayer (WebSocket) ｜ 实时对战 ｜ 即時對戰  
-- ✅ High-performance C++ game engine ｜ 高性能引擎 ｜ 高效能引擎  
-- ✅ Scalable architecture ｜ 可扩展 ｜ 可擴展  
-- ✅ Club / Tournament system ｜ 俱乐部 / 比赛 ｜ 俱樂部 / 比賽  
-- ✅ Payment & Rake system ｜ 支付与抽水系统 ｜ 支付與抽水系統  
-- ✅ Admin panel for easy management ｜ 后台管理 ｜ 後台管理  
 
 ---
 
